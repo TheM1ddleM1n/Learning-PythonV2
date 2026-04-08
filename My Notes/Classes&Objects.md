@@ -57,13 +57,13 @@ In Python's **Object-Oriented Programming (OOP)**, we can restrict access to met
 class Person:
     def __init__(self, name, age):
         self.name = name
-        self.__age = age    #Private attribute
+        self.__age = age  # Private attribute
 
     def get_age(self):
-        return self.__age   #Accessor method
+        return self.__age  # Accessor method
 
 person = Person("Alice", 30)
-print(person.get_age())     #Gives an output of 30
+print(person.get_age())  # Gives an output of 30
 ```
 
 It's noted from this example that the `the__age` attribute is private, and can only be accessed by calling the `get_age()` method.
