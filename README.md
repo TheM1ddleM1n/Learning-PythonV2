@@ -3,7 +3,7 @@
 ## 📅 My Progress
 
 ```diff
-[▓▓▓▓▓░░░░░░░░░░░░░░░░░░] 26%
+[▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50%
 ```
 
 ##### `print("On a Python Learning Journey, Eyo ✌🏾")`
